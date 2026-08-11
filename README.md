@@ -1,5 +1,7 @@
 # odin-recipes
 
+Odin-recipes is a simple website consisting of a main page and several pages with recipes.
+
 This is the first project in the Foundations course of The Odin Project. The purpose of this project is to demonstrate my basic knowledge of HTML, including working with text, links, images, and lists.
 
 While working on odin-recipes, I consolidated my skills in organizing project files and using relative and absolute URLs.
